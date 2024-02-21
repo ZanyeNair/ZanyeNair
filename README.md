@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![ZanyeNair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZanyeNair&theme=tokyonight)](https://github.com/ZanyeNair/github-readme-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZanyeNair&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanyeNair&theme=tokyonight)](https://github.com/ZanyeNair/github-readme-stats)
 <!--
 **ZanyeNair/ZanyeNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
